@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>CRACKUP PIKIN STUDIO NG</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background: #f5f7fb;
+            color: #111;
+        }
+        header {
+            background: #0a57ff;
+            color: white;
+            text-align: center;
+            padding: 40px 20px;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 32px;
+            letter-spacing: 2px;
+        }
+        header p {
+            margin-top: 10px;
+            font-size: 16px;
+        }
+        .section {
+            padding: 40px 20px;
+            max-width: 900px;
+            margin: auto;
+        }
+        .section h2 {
+            margin-bottom: 10px;
+            color: #0a57ff;
+        }
+        .btn {
+            display: inline-block;
+            padding: 12px 20px;
+            background: #0a57ff;
+            color: white;
+            text-decoration: none;
+            border-radius: 6px;
+            font-weight: bold;
+        }
+        .footer {
+            background: #111;
+            color: white;
+            text-align: center;
+            padding: 20px;
+            margin-top: 40px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>CRACKUP PIKIN STUDIO NG</h1>
+        <p>Your No.1 Hub for Cruise, Funny Updates & Observation Moments</p>
+    </header>
+
+    <div class="section" id="about">
+        <h2>ABOUT US</h2>
+        <p>
+            Crackup Pikin Studio NG is a creative content brand bringing you funny stories,
+            sharp observations, viral cruise posts, trending gist, and entertaining reactions.
+            We focus on pure vibes, laughter, and relatable moments from everyday life.
+        </p>
+    </div>
+
+    <div class="section" id="follow">
+        <h2>FOLLOW US</h2>
+        <p>Stay connected with our latest content, memes, videos, and daily cruise.</p>
+        <a href="#" class="btn">Follow on Facebook</a>
+    </div>
+
+    <div class="section" id="contact">
+        <h2>CONTACT</h2>
+        <p>Email: crackuppikinstudio@gmail.com (example)</p>
+        <p>For promotions, collaborations & shoutouts.</p>
+    </div>
+
+    <div class="footer">
+        © 2025 Crackup Pikin Studio NG. All Rights Reserved.
+    </div>
+</body>
+</html>
